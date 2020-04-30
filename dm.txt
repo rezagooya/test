@@ -1,2 +1,2 @@
 dn = width of channel
-
+dw = depth * H
